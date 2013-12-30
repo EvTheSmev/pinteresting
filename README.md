@@ -1,3 +1,3 @@
-This is a project learning Rails.
+This is a project for learning Rails.
 
 By Evan Walsh
