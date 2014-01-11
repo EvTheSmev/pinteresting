@@ -5,4 +5,6 @@ class PagesController < ApplicationController
   end	
   def team
   end
+  def pretty
+  end
 end
